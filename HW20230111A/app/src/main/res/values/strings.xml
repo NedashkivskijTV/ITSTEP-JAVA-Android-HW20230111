@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">REST API app</string>
+    <string name="tvHelloMessage">Press the button to get information about all users</string>
+    <string name="btnGetUsers">GET USERS</string>
+    <string name="tvListOfUsers">List Of Users</string>
+    <string name="tvUserInfo">Users Information</string>
+    <string name="tvLabelName">Name</string>
+    <string name="tvLabelPhone">Phone</string>
+</resources>
